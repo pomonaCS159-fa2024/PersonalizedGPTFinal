@@ -2,7 +2,7 @@ Here is a breakdown of the files included
 
 reduce2 - reducing audio quality to make it easier to process
 
-Convert2 - converting raw audio data to text and then prmpt response paits
+Convert2 - converting raw audio data to text and then prompt response pairs
 
 CorpusCounter - getting simple analytics on raw dataset 
 
